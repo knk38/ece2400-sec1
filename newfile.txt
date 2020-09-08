@@ -1,1 +1,5 @@
-hello this is a new branch that I plan on pulling into my master branch
+
+i hello this is a new branch that I plan on pulling into my master branch
+i am now going to practice rebasing this branch into master. This means that my changes
+will be reflected onto master without a commit occuring. This is kinda sketch tho because 
+there is no history as to what changes have been made as a commit has not been logged.
